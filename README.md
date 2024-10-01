@@ -15,6 +15,7 @@ This is a final project for the 2025-1 Modeling and Simulation course developed 
 Based on the book "The Beauty Algorithmic beaty of plants" of Przemyslaw Prusinkiewicz and Aristid Lindenmayer We'll take some algorithms, most specifically the ones that are related to branchs in tree modeling explained on the book. The author explains that this kind of math, the one related to biology is kind of an time-space related, and so we want to take the better aproach as we can to reach our target of being able to reproduce the growth of a tree, and focus on its branches.
 ## Particular objectives
 
+* Study and understand L-systems to model tree branches.
 
 ## Methodology
 
