@@ -5,10 +5,10 @@ National Autonomous University of Mexico (UNAM).
 
 * Hannia Ashley Alvarado Galván. (haash2706@gmail.com)
 
-##Objectives
+## Objectives
 
-##Methodology
+## Methodology
 
-##References
+## References
 
 * Prusinkiewicz, P., & Lindenmayer, A. (1990). The Algorithmic Beauty of Plants.
