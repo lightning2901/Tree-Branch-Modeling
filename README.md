@@ -16,9 +16,9 @@ Based on the book "The Beauty Algorithmic beaty of plants" of Przemyslaw Prusink
 ## Particular objectives
 
 * Study and understand L-systems to model tree branches.
-* Use an algorithm based on the book 'The Algorithmic Beauty of Plants' (yet to be defined) to model the growth of the branches of a tree
+* Use an algorithm stated on the book 'The Algorithmic Beauty of Plants' (yet to be defined) to model the growth of the branches of a tree.
 * Create a graphical visualization of the model
-* see differences on trees growth based on different rules and types of trees, both numeric and graphically.
+* see differences on trees growth based on different rules (specified on the book) and types of trees, both numeric and graphically.
 
 ## Methodology
 
