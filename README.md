@@ -4,21 +4,26 @@
 
 * Hannia Ashley Alvarado Galván. -> haash2706@gmail.com
 * José Ángel López Gutiérrez. -> jalg030129@gmail.com
+* Edgar Leonardo García Zavala. -> leo261102leo@gmail.com
 
 ## Affiliation
 This is a final project for the 2025-1 Modeling and Simulation course developed at the Universidad Nacional Autónoma de México (UNAM), at the Escuela Nacional de Estudios Superiores Unidad Morela (ENES - Morelia).This project is carried out by students of the Bachelor's Degree in Technologies for Information in the Sciences.
 
 ## Introduction
+In nature, trees exhibit complex and fascinating growth patterns, especially in how their branches extend and branch out. These patterns are not random but follow specific mathematical and biological rules that can be modeled and understood through algorithms. This project aims to explore these rules using L-systems (Lindenmayer Systems), an algorithmic approach for simulating the development of multicellular organisms, such as trees. Based on the book "The Algorithmic Beauty of Plants" by Przemyslaw Prusinkiewicz and Aristid Lindenmayer, we will study how these mathematical tools can be applied to model the growth of tree branches.
 
+Through this project, we aim to graphically reproduce the branching process of trees, analyzing how different growth rules influence the final structure of a tree. We will also compare the results obtained with different types of trees, both visually and numerically, allowing a deeper understanding of how plants interact with space and time during their development. This approach will enable us not only to visualize the inherent beauty in nature's patterns but also to delve into the connection between biology and mathematics in plant growth.
   
 ## General objective
-Based on the book "The Beauty Algorithmic beaty of plants" of Przemyslaw Prusinkiewicz and Aristid Lindenmayer We'll take some algorithms, most specifically the ones that are related to branchs in tree modeling explained on the book. The author explains that this kind of math, the one related to biology is kind of an time-space related, and so we want to take the better aproach as we can to reach our target of being able to reproduce the growth of a tree, and focus on its branches.
-## Particular objectives
+General Objective
+The main goal is to reproduce the growth of a tree, with a specific focus on its branches, using algorithmic models described in the book. According to the authors, the mathematics related to biology, and particularly plant growth, is deeply connected with concepts of time and space. This means that branch growth is not static but develops over time within a three-dimensional spatial environment. The aim is to find the best approach to accurately replicate this growth, both numerically and visually.
 
-* Study and understand L-systems to model tree branches.
-* Use an algorithm stated on the book 'The Algorithmic Beauty of Plants' (yet to be defined) to model the growth of the branches of a tree.
-* Create a graphical visualization of the model
-* see differences on trees growth based on different rules (specified on the book) and types of trees, both numeric and graphically.
+## Particular objectives
+* Study and understand L-systems to model tree branches: This is the essential first step of the project, aimed at understanding how L-systems can be used to model branch behavior. The focus will be on the rules that control branch growth and how these rules can be modified to generate different branching patterns.
+
+* Use an algorithm from the book to model branch growth: The Algorithmic Beauty of Plants presents several algorithms that simulate plant growth using L-systems. The specific algorithm to be used is yet to be defined, but the focus will be on algorithms that allow iterative simulation of tree branch development.
+
+* Create a graphical visualization of the model: An important part of this project is to create a visual representation of the mathematical models developed. Using computer graphics tools, we can visualize how tree branches grow over time, allowing observation of complex growth patterns.
 
 ## Methodology
 
