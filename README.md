@@ -34,31 +34,31 @@ The methodology of this project will be based on the following key steps, which 
 
     Simple examples will be studied to become familiar with the concepts and tools necessary to apply L-systems to tree growth.
 
-* Algorithm selection
+2. Algorithm selection
 
     Based on the information provided in the book The Algorithmic Beauty of Plants, an algorithm that best fits the project's objectives will be selected. Various algorithms presented by the authors will be evaluated to simulate the iterative development of branches.
 
     The selected algorithm will be implemented as the basis for modeling the tree branches.
   
-* Mathematical model implementation
+3. Mathematical model implementation
 
     A computational model will be developed based on the selected algorithm to simulate branch growth. This model will use specific rules that control the shape and branching of the tree.
 
     A suitable programming language will be used for efficient implementation of the model and its subsequent graphical visualization.
 
-* Graphical visualization of branch growth
+4. Graphical visualization of branch growth
 
     To observe the tree's development dynamically, computer graphics tools will be used to visualize how the branches grow and expand over time.
 
     Images or animations representing the iterative growth of the tree will be generated, allowing comparison of different branching patterns under varying production rules.
 
-* Results analysis
+5. Results analysis
 
     A visual and numerical analysis of the different growth patterns obtained will be carried out. The results will be compared with characteristics observed in real tree types, evaluating how changes in the L-system rules affect the final branch structure.
 
     Variables such as the number of iterations and production rules will also be analyzed to determine how they influence the tree’s growth.
 
-* Model validation
+6. Model validation
 
     To verify the accuracy of the model, the results obtained will be compared with examples of real tree growth or with models already validated in the literature.
 
