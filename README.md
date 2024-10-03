@@ -28,7 +28,7 @@ The main goal is to reproduce the growth of a tree, with a specific focus on its
 ## Methodology
 The methodology of this project will be based on the following key steps, which will allow us to model the growth of tree branches using L-systems and algorithms described in the book The Algorithmic Beauty of Plants:
 
-* Preliminary research and study of L-systems
+1. Preliminary research and study of L-systems
 
     In this initial stage, a theoretical review of L-systems (Lindenmayer Systems) and their use in modeling plant growth will be conducted. This will include analyzing the main elements of an L-system: its alphabet, axioms, and production rules.
 
