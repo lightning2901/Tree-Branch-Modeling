@@ -49,15 +49,35 @@ The main goal is to reproduce the growth of a tree, with a specific focus on its
 ### variables and functions: 
 
 height_range
+
+
 diam_range
+
+
 split_height_range
+
+
 split_prob
+
+
 num_branches
+
+
 min_can_height
+
+
 max_can_width
+
+
 max_can_width_height
+
+
 tree_top_dist
+
+
 tree_mid_dist
+
+
 foliage_noise
 
    
