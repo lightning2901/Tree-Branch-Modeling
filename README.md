@@ -59,3 +59,6 @@ scipy
 ## References 📝
 
 * https://github.com/mitchbryson/SimpleSynthTree.git
+* M. Bryson, F. Wang and J. Allworth, "Using synthetic tree data in deep learning-based individual tree segmentation using LiDAR point clouds", Remote Sens. 2023, 15(9), 2380.
+
+https://www.mdpi.com/2072-4292/15/9/2380
