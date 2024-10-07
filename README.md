@@ -15,7 +15,7 @@ In nature, trees exhibit complex and fascinating growth patterns, especially in 
 Through this project, we aim to graphically reproduce the branching process of trees, analyzing how different growth rules influence the final structure of a tree, both visually and numerically, allowing a deeper understanding of how plants interact with space and time during their development. This approach will enable us not only to visualize the inherent beauty in nature's patterns but also to delve into the connection between biology and mathematics in plant growth.
   
 ## General objective 🎯
-The main goal is to reproduce the growth of a tree, with a specific focus on its branches, using an algorithmic model described on a GitHub Repository refered in References. 
+The main goal is to reproduce the growth of a tree, with a specific focus on its branches, using an algorithmic model described on a GitHub Repository refered in References, wich uses patterns based on splines. 
 
 ## Particular objectives 🎯
 * understand thd model of tree branches of a pine: This is the essential first step of the project, aimed at understanding how to model branch behavior. The focus will be on the rules that control branch growth and how these rules can be modified to generate different branching patterns.
