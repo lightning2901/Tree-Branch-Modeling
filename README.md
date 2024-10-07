@@ -23,6 +23,8 @@ The main goal is to reproduce the growth of a tree, with a specific focus on its
 * We'll use a repoaitory with a model to understand how it works. And analize it,
 
 * Create a graphical visualization of the model: An important part of this project is to create a visual representation of the mathematical models developed. Using computer graphics tools, we can visualize how tree branches grow over time, allowing observation of complex growth patterns. Trying to use python.
+  
+* Using the algorithm on which we are based, we seek to adapt the model coefficients in such a way that it is a little more realistic, for example adapting it to the shape and thickness of the trunk, in the same way adjusting the distribution angles of the branches and the number of branches.
 
 ## Methodology 🧪
 
