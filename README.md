@@ -12,7 +12,7 @@ This is a final project for the 2025-1 Modeling and Simulation course developed 
 ## Introduction
 In nature, trees exhibit complex and fascinating growth patterns, especially in how their branches extend and branch out. These patterns are not random but follow specific mathematical and biological rules that can be modeled and understood through algorithms. This project aims to reproduce the Growth of a tree, and understand tools can be applied to model the growth of the tree and make it beautyful.
 
-Through this project, we aim to graphically reproduce the branching process of trees, analyzing how different growth rules influence the final structure of a tree. We will also compare the results obtained with different types of trees, both visually and numerically, allowing a deeper understanding of how plants interact with space and time during their development. This approach will enable us not only to visualize the inherent beauty in nature's patterns but also to delve into the connection between biology and mathematics in plant growth.
+Through this project, we aim to graphically reproduce the branching process of trees, analyzing how different growth rules influence the final structure of a tree, both visually and numerically, allowing a deeper understanding of how plants interact with space and time during their development. This approach will enable us not only to visualize the inherent beauty in nature's patterns but also to delve into the connection between biology and mathematics in plant growth.
   
 ## General objective 🎯
 The main goal is to reproduce the growth of a tree, with a specific focus on its branches, using an algorithmic model described on a GitHub Repository refered in References. 
@@ -26,19 +26,18 @@ The main goal is to reproduce the growth of a tree, with a specific focus on its
 
 ## Methodology 🧪
 
-1. Graphical visualization of branch growth
+1. Graphical visualization of growth of a tree, and understarnd how branches grow based on numeric splines to simulate the tree.
 
     To observe the tree's development dynamically, computer graphics tools will be used to visualize how the branches grow and expand over time.
 
-   
-
-3. Results analysis
+  
+2. Results analysis
 
     A visual and numerical analysis of the different growth patterns obtained will be carried out. The results will be compared with characteristics observed in real tree types, evaluating how changes in the branch structure.
 
-    Variables such as the number of iterations and production rules will also be analyzed to determine how they influence the tree’s growth.
+    Variables such as how higher the grade of the spline needs to be to get an  actual representation.
 
-4. Model validation
+3. Model validation
 
     To verify the accuracy of the model, the results obtained will be compared with examples of real tree growth or with models already validated in the literature.
 
