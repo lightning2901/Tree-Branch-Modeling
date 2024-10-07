@@ -27,17 +27,18 @@ The main goal is to reproduce the growth of a tree, with a specific focus on its
 ## Methodology 🧪
 
 1. Graphical visualization of growth of a tree, and understarnd how branches grow based on numeric splines to simulate the tree.
+2. Change the randomness of the algorithm to make it specific.
 
     To observe the tree's development dynamically, computer graphics tools will be used to visualize how the branches grow and expand over time.
 
   
-2. Results analysis
+3. Results analysis
 
     A visual and numerical analysis of the different growth patterns obtained will be carried out. The results will be compared with characteristics observed in real tree types, evaluating how changes in the branch structure.
 
     Variables such as how higher the grade of the spline needs to be to get an  actual representation.
 
-3. Model validation
+4. Model validation
 
     To verify the accuracy of the model, the results obtained will be compared with examples of real tree growth or with models already validated in the literature.
 
