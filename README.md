@@ -27,23 +27,7 @@ The main goal is to reproduce the growth of a tree, with a specific focus on its
 ## Methodology 🧪
 The methodology of this project will be based on the following key steps, which will allow us to model the growth of tree branches using L-systems and algorithms described in the book The Algorithmic Beauty of Plants:
 
-1. Preliminary research and study of L-systems
 
-    In this initial stage, a theoretical review of L-systems (Lindenmayer Systems) and their use in modeling plant growth will be conducted. This will include analyzing the main elements of an L-system: its alphabet, axioms, and production rules.
-
-    Simple examples will be studied to become familiar with the concepts and tools necessary to apply L-systems to tree growth.
-
-2. Algorithm selection
-
-    Based on the information provided in the book The Algorithmic Beauty of Plants, an algorithm that best fits the project's objectives will be selected. Various algorithms presented by the authors will be evaluated to simulate the iterative development of branches.
-
-    The selected algorithm will be implemented as the basis for modeling the tree branches.
-  
-3. Mathematical model implementation
-
-    A computational model will be developed based on the selected algorithm to simulate branch growth. This model will use specific rules that control the shape and branching of the tree.
-
-    A suitable programming language will be used for efficient implementation of the model and its subsequent graphical visualization.
 
 4. Graphical visualization of branch growth
 
@@ -53,7 +37,7 @@ The methodology of this project will be based on the following key steps, which 
 
 5. Results analysis
 
-    A visual and numerical analysis of the different growth patterns obtained will be carried out. The results will be compared with characteristics observed in real tree types, evaluating how changes in the L-system rules affect the final branch structure.
+    A visual and numerical analysis of the different growth patterns obtained will be carried out. The results will be compared with characteristics observed in real tree types, evaluating how changes in the branch structure.
 
     Variables such as the number of iterations and production rules will also be analyzed to determine how they influence the tree’s growth.
 
@@ -66,4 +50,4 @@ The methodology of this project will be based on the following key steps, which 
 
 ## References 📝
 
-* Prusinkiewicz, P., & Lindenmayer, A. (1990). The Algorithmic Beauty of Plants.
+* https://github.com/baggelisp/Tree-Simulation/tree/master/common
