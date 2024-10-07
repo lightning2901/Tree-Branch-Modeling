@@ -19,6 +19,7 @@ The main goal is to reproduce the growth of a tree, with a specific focus on its
 
 ## Particular objectives 🎯
 * understand thd model of tree branches of a pine: This is the essential first step of the project, aimed at understanding how to model branch behavior. The focus will be on the rules that control branch growth and how these rules can be modified to generate different branching patterns.
+* See wich grade of the spline is better
 
 * We'll use a repoaitory with a model to understand how it works. And analize it,
 
