@@ -18,7 +18,7 @@ Through this project, we aim to graphically reproduce the branching process of t
 The main goal is to reproduce the growth of a tree, with a specific focus on its branches, using an algorithmic model described on a GitHub Repository refered in References. 
 
 ## Particular objectives 🎯
-* understand thd model of tree branches: This is the essential first step of the project, aimed at understanding how to model branch behavior. The focus will be on the rules that control branch growth and how these rules can be modified to generate different branching patterns.
+* understand thd model of tree branches of a pine: This is the essential first step of the project, aimed at understanding how to model branch behavior. The focus will be on the rules that control branch growth and how these rules can be modified to generate different branching patterns.
 
 * We'll use a repoaitory with a model to understand how it works. And analize it,
 
