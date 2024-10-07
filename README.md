@@ -30,8 +30,6 @@ The main goal is to reproduce the growth of a tree, with a specific focus on its
 
     To observe the tree's development dynamically, computer graphics tools will be used to visualize how the branches grow and expand over time.
 
-    Images or animations representing the iterative growth of the tree will be generated, allowing comparison of different branching patterns under varying production rules.
-   Variables importantes: vertexCode, fragmentCode, vShaderFile, fShaderFile, vShaderCode, fShaderCode, vertex, fragment, success, infoLog
    
 
 3. Results analysis
@@ -47,18 +45,17 @@ The main goal is to reproduce the growth of a tree, with a specific focus on its
     Model parameters will be adjusted based on these results to improve realism and precision.
 
 ### Technologies
-C++
-OpenGL
-GLM (OpenGL Mathematics)
-GLEW (OpenGL Extension Wrangler Library)
-GLFW
-Assimp (Open Asset Import Library)
-STB Image Library
-OBJ Format
-VTP Format
-Shader Language (GLSL)
+NumPy
+
+trimesh
+
+laspy
+
+matplotlib
+
+scipy
 
 
 ## References 📝
 
-* https://github.com/baggelisp/Tree-Simulation/tree/master/common
+* https://github.com/mitchbryson/SimpleSynthTree.git
