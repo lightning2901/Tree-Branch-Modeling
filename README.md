@@ -10,7 +10,7 @@ M. Bryson, F. Wang, and J. Allworth, "Using synthetic tree data in deep learning
 
 # Repository creators
 
-1. Edgar Leonardo García Zavala leo261102leo@gmail.com
+* Edgar Leonardo García Zavala leo261102leo@gmail.com
 2. ---------
 3. ---------
 
