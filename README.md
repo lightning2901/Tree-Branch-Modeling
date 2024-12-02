@@ -40,7 +40,7 @@ Ensure you have the following Python libraries installed:
 Install dependencies using pip:  
 ```bash
 pip install numpy trimesh laspy
-
+```
 
 ## Usage
 Generate an example tree by running the generate_example_tree.py script:
