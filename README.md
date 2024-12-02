@@ -58,13 +58,16 @@ This generates a point cloud file that can be visualized in tools like MeshLab.
 ## Repository Contents
 
 `simple_synth_tree.py`: Core library for synthetic tree generation.
+
 `generate_example_tree.py`: Example script demonstrating tree generation and point cloud export.
+
 `media/`: Example images and figures.
 
 ## About the Authors
 
 Developed by:
 
-* Edgar Leonardo García Zavala Contact: leo261102leo@gmail.com
+* Edgar Leonardo García Zavala
+  Contact: leo261102leo@gmail.com
 * [Add Co-authors]
 * [Add Co-authors]
