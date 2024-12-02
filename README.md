@@ -65,25 +65,6 @@ This generates a point cloud file that can be visualized in tools like MeshLab.
 
 Developed by:
 
-Edgar Leonardo García Zavala
-Contact: leo261102leo@gmail.com
-[Add Co-authors]
-[Add Co-authors]
-Contributions are welcome! Feel free to submit issues or pull requests.
-
-## Citation
-
-If you use this repository in your work, please cite the corresponding paper:
-
-@article{bryson2023synthetictrees,
-  author = {Bryson, M. and Wang, F. and Allworth, J.},
-  title = {Using synthetic tree data in deep learning-based individual tree segmentation using LiDAR point clouds},
-  journal = {Remote Sensing},
-  volume = {15},
-  number = {9},
-  pages = {2380},
-  year = {2023},
-  doi = {10.3390/rs15092380}
-}
-
-
+* Edgar Leonardo García Zavala Contact: leo261102leo@gmail.com
+* [Add Co-authors]
+* [Add Co-authors]
