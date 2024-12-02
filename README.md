@@ -45,20 +45,21 @@ pip install numpy trimesh laspy
 ## Usage
 Generate an example tree by running the generate_example_tree.py script:
 
-
+```
 from simple_synth_tree import gen_simtree, export_points_ply
 
 points = gen_simtree(Np=4096)
 
 export_points_ply('example001.ply', points)
+```
 
 This generates a point cloud file that can be visualized in tools like MeshLab.
 
 ## Repository Contents
 
-simple_synth_tree.py: Core library for synthetic tree generation.
-generate_example_tree.py: Example script demonstrating tree generation and point cloud export.
-media/: Example images and figures.
+`simple_synth_tree.py`: Core library for synthetic tree generation.
+`generate_example_tree.py`: Example script demonstrating tree generation and point cloud export.
+`media/`: Example images and figures.
 
 ## About the Authors
 
