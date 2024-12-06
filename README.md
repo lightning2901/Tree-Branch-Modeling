@@ -69,5 +69,5 @@ Developed by:
 
 * Edgar Leonardo García Zavala
   Contact: leo261102leo@gmail.com
-* [Add Co-authors]
-* [Add Co-authors]
+* [José Ángel López Gutiérrez]
+* []
