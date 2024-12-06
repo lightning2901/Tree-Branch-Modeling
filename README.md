@@ -69,5 +69,7 @@ Developed by:
 
 * Edgar Leonardo García Zavala
   Contact: leo261102leo@gmail.com
-* [José Ángel López Gutiérrez]
-* []
+* José Ángel López Gutiérrez.
+  Contact: jalg030129@gmail.com
+* Hannia Ashley Alvarado Galván.
+  Contact: haash2706@gmail.com
